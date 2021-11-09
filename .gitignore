@@ -1,0 +1,14 @@
+server_client_cpp/cna425socket_client/.vs
+server_client_cpp/cna425socket_client/Debug
+server_client_cpp/cna425socket_client/packages
+server_client_cpp/cna425socket_client/cna425socket_client/Debug
+server_client_cpp/cna426socket_client/.vs
+server_client_cpp/cna426socket_client/Debug
+server_client_cpp/cna426socket_client/packages
+server_client_cpp/cna426socket_client/cna425socket_client/Debug
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.users
+*.config
+*.sln
+*.vs
